@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IntelligenceArtificielleJava.iml" filepath="$PROJECT_DIR$/IntelligenceArtificielleJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/astar/astar.iml" filepath="$PROJECT_DIR$/astar/astar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compteEstBonSimplifie/compteEstBonSimplifie.iml" filepath="$PROJECT_DIR$/compteEstBonSimplifie/compteEstBonSimplifie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deepAndWideSearch/deepAndWideSearch.iml" filepath="$PROJECT_DIR$/deepAndWideSearch/deepAndWideSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeux/jeux.iml" filepath="$PROJECT_DIR$/jeux/jeux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nQueensRandom/nQueensRandom.iml" filepath="$PROJECT_DIR$/nQueensRandom/nQueensRandom.iml" />
+    </modules>
+  </component>
+</project>
